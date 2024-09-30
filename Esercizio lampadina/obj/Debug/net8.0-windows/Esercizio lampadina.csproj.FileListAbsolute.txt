@@ -1,0 +1,16 @@
+C:\Users\leohu\source\repos\Esercizio lampadina\Esercizio lampadina\bin\Debug\net8.0-windows\Esercizio lampadina.exe
+C:\Users\leohu\source\repos\Esercizio lampadina\Esercizio lampadina\bin\Debug\net8.0-windows\Esercizio lampadina.deps.json
+C:\Users\leohu\source\repos\Esercizio lampadina\Esercizio lampadina\bin\Debug\net8.0-windows\Esercizio lampadina.runtimeconfig.json
+C:\Users\leohu\source\repos\Esercizio lampadina\Esercizio lampadina\bin\Debug\net8.0-windows\Esercizio lampadina.dll
+C:\Users\leohu\source\repos\Esercizio lampadina\Esercizio lampadina\bin\Debug\net8.0-windows\Esercizio lampadina.pdb
+C:\Users\leohu\source\repos\Esercizio lampadina\Esercizio lampadina\obj\Debug\net8.0-windows\Esercizio_lampadina.Form1.resources
+C:\Users\leohu\source\repos\Esercizio lampadina\Esercizio lampadina\obj\Debug\net8.0-windows\Esercizio lampadina.csproj.GenerateResource.cache
+C:\Users\leohu\source\repos\Esercizio lampadina\Esercizio lampadina\obj\Debug\net8.0-windows\Esercizio lampadina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leohu\source\repos\Esercizio lampadina\Esercizio lampadina\obj\Debug\net8.0-windows\Esercizio lampadina.AssemblyInfoInputs.cache
+C:\Users\leohu\source\repos\Esercizio lampadina\Esercizio lampadina\obj\Debug\net8.0-windows\Esercizio lampadina.AssemblyInfo.cs
+C:\Users\leohu\source\repos\Esercizio lampadina\Esercizio lampadina\obj\Debug\net8.0-windows\Esercizio lampadina.csproj.CoreCompileInputs.cache
+C:\Users\leohu\source\repos\Esercizio lampadina\Esercizio lampadina\obj\Debug\net8.0-windows\Esercizio lampadina.dll
+C:\Users\leohu\source\repos\Esercizio lampadina\Esercizio lampadina\obj\Debug\net8.0-windows\refint\Esercizio lampadina.dll
+C:\Users\leohu\source\repos\Esercizio lampadina\Esercizio lampadina\obj\Debug\net8.0-windows\Esercizio lampadina.pdb
+C:\Users\leohu\source\repos\Esercizio lampadina\Esercizio lampadina\obj\Debug\net8.0-windows\Esercizio lampadina.genruntimeconfig.cache
+C:\Users\leohu\source\repos\Esercizio lampadina\Esercizio lampadina\obj\Debug\net8.0-windows\ref\Esercizio lampadina.dll
